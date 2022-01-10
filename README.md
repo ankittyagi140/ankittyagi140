@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankittyagi140
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React.Js
+- 👀 I’m interested in JavaScript and Reactjs
+- 🌱 I’m currently learning Node.Js
 - 💞️ I’m looking to collaborate on Javascript/React.js
 - 📫 How to reach me ankit.tyagi555@gmail.com
 
