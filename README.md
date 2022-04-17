@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ankittyagi140
+- 👋 Hi, I’m Ankit Tyagi
 - 👀 I’m interested in JavaScript and Reactjs
 - 🌱 I’m currently learning Node.Js
 - 💞️ I’m looking to collaborate on Javascript/React.js
-- 📫 How to reach me ankit.tyagi555@gmail.com
+- 📫 How to reach me www.linkedin.com/in/ankit-tyagi-fe
 
 <!---
 ankittyagi140/ankittyagi140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
