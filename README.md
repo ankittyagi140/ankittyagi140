@@ -1,8 +1,7 @@
 # **Hi 👋 I’m Ankit Tyagi**
-I am a fullstack developer from India 🇮🇳 I am working as a Specialist Engineer at [Visit Mindtree](https://www.ltimindtree.com/)
+I am a fullstack developer from India 🇮🇳 I am working as a Specialist Engineer at [ltimindtree.com](https://www.ltimindtree.com/)
 
 
- 
 
 ## **Currently I am working with ...**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
