@@ -1,5 +1,6 @@
 # **Hi 👋 I’m Ankit Tyagi**
-I am a fullstack developer from India 🇮🇳 I am working as a Specialist Engineer at LTIMindtree.comhttps://img.shields.io/endpoint?url=https%3A%2F%2Fwww.ltimindtree.com%2F
+I am a fullstack developer from India 🇮🇳 I am working as a Specialist Engineer at [Visit Mindtree](https://www.ltimindtree.com/)
+
 
  
 
