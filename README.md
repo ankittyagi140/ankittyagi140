@@ -12,6 +12,11 @@ I am a fullstack developer from India 🇮🇳 I am working as a Specialist Engi
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
+![Enzyme](https://img.shields.io/badge/-Enzyme-2D4264?logo=enzyme&logoColor=white&style=flat)
+![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-E33332?style=flat)
+
 
 
 
