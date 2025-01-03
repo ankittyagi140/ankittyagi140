@@ -30,6 +30,8 @@ I am a fullstack developer from India 🇮🇳 I am working as a Specialist Engi
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![REST API](https://img.shields.io/badge/-REST_API-61DAFB?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 
 
 
