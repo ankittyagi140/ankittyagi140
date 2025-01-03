@@ -14,7 +14,8 @@ I am a fullstack developer from India 🇮🇳 I am working as a Specialist Engi
 
 ### BackEnd TechStack ###
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![ExpressJs](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![NestJs](https://img.shields.io/badge/-NestJs-000000?logo=express&logoColor=white&style=flat)
 
 ### Testing Libraries ### 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
